@@ -1,13 +1,13 @@
 ## Simple Snake Game
 
-	- Move forward
+ - Move forward
 	
-	- Move backward
+ - Move backward
 	
-	- Peek ahead 1 step
+ - Peek ahead 1 step
 	
-	- Peek ahead 2 steps
+ - Peek ahead 2 steps
 	
-	- Eat and grow
+ - Eat and grow
 	
-	- Produce egg
+ - Produce egg
